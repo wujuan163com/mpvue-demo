@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "修改手机号码",
+  "usingComponents": {
+    "van-cell-group": "/static/vant-weapp/cell-group/index",
+    "van-field": "/static/vant-weapp/field/index"
+  }
+}

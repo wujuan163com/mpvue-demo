@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "工时详情",
+  "usingComponents": {
+  },
+  "enablePullDownRefresh": true
+}

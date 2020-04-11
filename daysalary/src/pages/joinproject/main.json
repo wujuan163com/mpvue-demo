@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "加入项目",
+  "usingComponents": {
+    "van-field": "/static/vant-weapp/field/index",
+    "van-cell-group": "/static/vant-weapp/cell-group/index",
+    "van-dialog": "/static/vant-weapp/dialog/index",
+    "van-popup": "/static/vant-weapp/popup/index"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "支付宝账号",
+  "usingComponents": {
+    "van-cell-group": "/static/vant-weapp/cell-group/index",
+    "van-field": "/static/vant-weapp/field/index"
+  }
+}
